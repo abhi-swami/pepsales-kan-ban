@@ -1,4 +1,4 @@
-# SwimLane UI
+# Pepsales Kan-ban
 
 SwimLane UI is a React-based application that provides a visual interface for managing tasks across different stages using a swimlane layout. It offers drag-and-drop functionality, configurable transitions between stages, and detailed block history tracking.
 
