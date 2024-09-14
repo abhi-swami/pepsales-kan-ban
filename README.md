@@ -23,11 +23,16 @@ SwimLane UI is a React-based application that provides a visual interface for ma
 
 1. Deployed Link:
    ```
-   git clone https://github.com/your-username/swimlane-ui.git
+   https://pepsales-kan-ban.vercel.app/
    ```
 
 2. Video Link:
    ```
-   cd swimlane-ui
+   https://www.youtube.com/watch?v=IkQfLSUGVss
+   ```
+
+3. Repo Link 
+   ```
+   https://github.com/abhi-swami/pepsales-kan-ban
    ```
 
